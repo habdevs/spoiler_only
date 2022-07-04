@@ -101,6 +101,7 @@
         max-width: 768px;
     }
     .title__page {
+        margin-left: 50px;
         margin-top: 50px;
         font-size: 30px;
         padding-bottom: 40px;
