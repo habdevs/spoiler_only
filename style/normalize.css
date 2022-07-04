@@ -21,3 +21,15 @@ body {
     margin: auto 160px;
     max-width: 1600px;
 }
+
+
+/* MEDIA */
+
+@media (min-width:320px) and (max-width: 374.99px) {
+    /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+    .container {
+        margin-top: 50px;
+        margin: 24px;
+        max-width: 327px;
+    }
+}
